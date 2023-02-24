@@ -1,2 +1,2 @@
-# life-battery
+# Life Battery
 This service calculates your remaining lifespan as a percentage based on your age, with 0% representing birth and 100% representing 100 years old. It also displays an image of a battery corresponding to your percentage, along with a message indicating how much "life" you have left. This tool can help you understand the concept of lifespan in a visual way, and motivate you to make the most of your time.
